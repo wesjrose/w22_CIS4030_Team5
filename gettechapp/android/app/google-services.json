@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070294711581",
+    "firebase_url": "https://gettech-abf4c-default-rtdb.firebaseio.com",
+    "project_id": "gettech-abf4c",
+    "storage_bucket": "gettech-abf4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070294711581:android:ff17ef4f73edd33fe6b5f4",
+        "android_client_info": {
+          "package_name": "com.example.gettechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070294711581-9cqdfo8j9bnumrtjdk7lrtr9jej0shvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuIryfjF4-Smg3EjQZ25BoqmHnEvn8VxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070294711581-9cqdfo8j9bnumrtjdk7lrtr9jej0shvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070294711581-uhteectc7jhopp6v8hlt4p16n3j2oi52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gettechapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
